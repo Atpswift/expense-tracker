@@ -119,7 +119,7 @@ screenshots/: Contains screenshots used in this README.md file.
 
 ## Deployment
 
-The project was deployed using Github Pages. It can be seen [here](https://atpswift.github.io/Expense-Tracker/).
+The project was deployed using Github Pages. It can be seen [here](https://atpswift.github.io/expense-tracker/).
 
 ## Contact
 
